@@ -1,0 +1,70 @@
+/* index1 */ 
+#centrear_web_parcial2,body {width: 900px; margin: auto;}
+#centrear_b,body {width: 693.99px; margin: auto;}
+p #men_{font-family: Arial, Helvetica, sans-serif ; font-size: 20px;}
+#menu_color{background-color: rgb(219, 194, 177, 0.171);}
+#table_b{ width: 300px;margin: auto;}
+#table_colorSecundario{background-color: rgb(219, 194, 177, 0.089);}
+#color_tc {background-color: rgba(219, 194, 177, 0.171);}
+#ac_blog  {background-color: rgba(219, 194, 177, 0.171);}
+#contactos_header {background-color: rgba(219, 194, 177, 0.089); width: 693.99px;}
+#copyra_{font-family: Arial, Helvetica, sans-serif ; font-size: 16px;}
+#p1{font-family: Arial, Helvetica, sans-serif ; font-size: 16px;}
+p{font-family: Arial, Helvetica, sans-serif ; font-size: 13.499px;}
+#compartir{font-family: Arial, Helvetica, sans-serif ; font-size: 17.10px;}
+#p1 {font-family: Arial, Helvetica, sans-serif ; font-size: 13.999px;}
+form {
+    /* Centrar formulario */
+    margin: 0 auto;
+    width: 400px;
+    /* borde del formulario y color */
+    padding: 1em;
+    border: 1px solid rgb(92, 91, 91);
+    border-radius: 1em;
+  }
+  form li + li {
+    margin-top: 1em;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  label {
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+  }
+  input{
+    /* Tamaño del campo de texto de correo y nombre*/
+    width: 300px;
+    height: 29px;
+    /* Centrar campo de texto de formulario */
+    box-sizing: border-box;}
+     /* Tamaño del campo de texto mensaje */
+  #msg1 {height: 29px;width: 295px;}
+/* index02 */ 
+#menu_color_2 {width: 699px;background-color: rgb(219, 194, 177, 0.171);}
+#pw5_centrear {width: 709px; margin: auto;}
+#pw2_centrear {width: 1260px; margin: auto;}
+#pw3_centrear {width: 600px; margin: auto;}
+#pw4_centrear {width: 1260px; margin: auto;}
+#pw2_hr{width: 659px; margin: auto;}
+#ap {width: 699px;background-color: rgb(219, 194, 177, 0.171);}
+#compartir_index2 {font-family: Arial, Helvetica, sans-serif ; font-size: 19px;}
+/* index02 area de videos. aqui se edito, el zoom de ambos videos. */ 
+#pw1_centrear_video1 {width: 1260px; margin: auto;} 
+/* index03 */
+p #men_3{font-family: Arial, Helvetica, sans-serif ; font-size: 19px;}
+#centrear_web3 {width: 1260px; margin: auto;}
+#pw_b2_hr{width: 698px; margin: auto;}
+#pw4_centrear {width: 1260px; margin: auto;}
+#pw2_hr{width: 659px; margin: auto;}
+#pw3_centrear_hr3 {width:709px;margin: auto;}
+td{background-color: rgba(245, 229, 207, 0.171);}
+#fondo2_table{width: 699px; background-color: rgba(219, 202, 177, 0.171);}
+table #linea1 {border: 10rem;}
+table #linea1,tr {border:10px;}
+/* index04 */
+p #men_4{font-family: Arial, Helvetica, sans-serif ; font-size: 19px;}
+#linea2 {width: 95px; margin: auto ;}
